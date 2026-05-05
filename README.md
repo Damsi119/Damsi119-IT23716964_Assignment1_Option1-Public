@@ -11,7 +11,7 @@ Option 1: Transliteration Accuracy Testing for Chat Sinhala / Singlish to Sinhal
 - `test_automation/IT23716964_Assignment 1 - Test cases.xlsx` - Excel file with 50 negative test cases.
 - `requirements.txt` - Python package requirements.
 - `run_tests_IT23716964.bat` - Windows quick-run command.
-- `Git Repository Link - IT23716964.txt` - Add the public GitHub repository URL here before submission.
+- `Git Repository Link - IT23716964.txt` - Contains the public GitHub repository URL.
 
 ## Test Case Coverage
 The Excel file contains 50 negative test cases.
@@ -56,5 +56,6 @@ run_tests_IT23716964.bat
 1. Run the automation script.
 2. Reopen the Excel file.
 3. Check that `Actual output` and `Status` are filled automatically.
-4. Add your public GitHub repository URL to `Git Repository Link - IT23716964.txt`.
-5. Zip the `IT23716964` folder and submit it.
+4. Manually complete `Singlish input types covered` and `Evidence or rationale for the input type covered`.
+5. Confirm the GitHub URL in `Git Repository Link - IT23716964.txt` is correct and publicly accessible.
+6. Create a folder named `IT23716964`, place required files inside, zip it, and submit.
